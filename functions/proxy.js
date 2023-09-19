@@ -1,7 +1,7 @@
 const axios = require("axios");
 
 exports.handler = async (event, context) => {
-  const targetURL = "http://YOUR_EC2_PUBLIC_IP";
+  const targetURL = "http://16.171.133.40:3001";
 
   try {
     const response = await axios({

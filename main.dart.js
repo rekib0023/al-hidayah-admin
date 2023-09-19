@@ -9316,7 +9316,7 @@ this.b=a
 this.c=null},
 aZD(){var s,r,q,p=new A.adp(),o=p.a=A.uM(null),n=o.lZ$
 n===$&&A.b()
-n.jq$="https://16.171.133.40:3001/api"
+n.jq$="http://16.171.133.40:3001/api"
 o=o.nk$
 o.v(o,new A.kk())
 o=A.jj(null,!1,t.j5)
@@ -9459,7 +9459,7 @@ this.b=b},
 aBa:function aBa(a){this.a=a},
 aV5(){var s,r,q,p=new A.adZ(),o=p.a=A.uM(null),n=o.lZ$
 n===$&&A.b()
-n.jq$="https://16.171.133.40:3001/api"
+n.jq$="http://16.171.133.40:3001/api"
 o=o.nk$
 o.v(o,new A.kk())
 o=A.jj(null,!1,t.AQ)
@@ -9570,7 +9570,7 @@ this.b=b},
 aEo:function aEo(a){this.a=a},
 b_b(){var s,r,q,p=new A.agG(),o=p.a=A.uM(null),n=o.lZ$
 n===$&&A.b()
-n.jq$="https://16.171.133.40:3001/api"
+n.jq$="http://16.171.133.40:3001/api"
 o=o.nk$
 o.v(o,new A.kk())
 o=A.jj(null,!1,t.bh)
@@ -9753,7 +9753,7 @@ _.r=f},
 alx:function alx(a){this.a=a},
 b0k(){var s=new A.aly(),r=s.a=A.uM(null),q=r.lZ$
 q===$&&A.b()
-q.jq$="https://16.171.133.40:3001/api"
+q.jq$="http://16.171.133.40:3001/api"
 r=r.nk$
 r.v(r,new A.kk())
 return s},
@@ -9889,7 +9889,7 @@ aM_:function aM_(a,b){this.a=a
 this.b=b},
 aVc(){var s,r,q,p=new A.aet(),o=p.a=A.uM(null),n=o.lZ$
 n===$&&A.b()
-n.jq$="https://16.171.133.40:3001/api"
+n.jq$="http://16.171.133.40:3001/api"
 o=o.nk$
 o.v(o,new A.kk())
 o=A.jj(null,!1,t.m7)
@@ -10044,7 +10044,7 @@ _.d=_.c=_.b=_.a=null},
 Wy:function Wy(a){this.a=a},
 b18(){var s=new A.apS(),r=s.a=A.uM(null),q=r.lZ$
 q===$&&A.b()
-q.jq$="https://16.171.133.40:3001/api/management"
+q.jq$="http://16.171.133.40:3001/api/management"
 r=r.nk$
 r.v(r,new A.kk())
 return s},
@@ -10227,7 +10227,7 @@ this.b=b},
 aPT:function aPT(a){this.a=a},
 aZF(){var s,r,q,p=new A.adL(),o=p.a=A.uM(null),n=o.lZ$
 n===$&&A.b()
-n.jq$="https://16.171.133.40:3001/api"
+n.jq$="http://16.171.133.40:3001/api"
 o=o.nk$
 o.v(o,new A.kk())
 o=A.jj(null,!1,t.nE)
@@ -60089,7 +60089,7 @@ $S:0}
 A.wf.prototype={
 a6(){var s,r,q,p=new A.axr(),o=p.a=A.uM(null),n=o.lZ$
 n===$&&A.b()
-n.jq$="https://16.171.133.40:3001/api"
+n.jq$="http://16.171.133.40:3001/api"
 o=o.nk$
 o.v(o,new A.kk())
 o=A.jj(null,!1,t.Xf)
